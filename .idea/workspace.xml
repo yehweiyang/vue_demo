@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f873ba29-4f8f-4116-a498-46290c801b00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zeovbp3cvv9cVsconfk2PIbp7u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="vue_demo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vue_demo/src/main/webapp/vue/vue_demo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.vue_demo.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f873ba29-4f8f-4116-a498-46290c801b00" name="Default Changelist" comment="" />
+      <created>1585209151142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585209151142</updated>
+      <workItem from="1585209174500" duration="2104000" />
+      <workItem from="1585703396270" duration="11283000" />
+      <workItem from="1586135464643" duration="86000" />
+      <workItem from="1586135640865" duration="2054000" />
+      <workItem from="1586225755702" duration="1136000" />
+      <workItem from="1586251206853" duration="667000" />
+      <workItem from="1586324381960" duration="3591000" />
+      <workItem from="1586395108463" duration="4456000" />
+      <workItem from="1586768584843" duration="1496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2000" y="143" key="#Project_Structure" timestamp="1585707220274">
+      <screen x="1440" y="-51" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="143" key="#Project_Structure/0.23.1440.877/1440.-51.1920.1057@1440.-51.1920.1057" timestamp="1585707220274" />
+    <state x="2165" y="287" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585709980554">
+      <screen x="1440" y="-51" width="1920" height="1057" />
+    </state>
+    <state x="2165" y="287" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-51.1920.1057@1440.-51.1920.1057" timestamp="1585709980554" />
+    <state x="1909" y="116" key="SettingsEditor" timestamp="1585209800063">
+      <screen x="1440" y="-51" width="1920" height="1057" />
+    </state>
+    <state x="1909" y="116" key="SettingsEditor/0.23.1440.877/1440.-51.1920.1057@1440.-51.1920.1057" timestamp="1585209800063" />
+  </component>
+</project>

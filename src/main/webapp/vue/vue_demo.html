@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+</head>
+<body>
+
+<div id="app">
+    <p>{{ foo }}</p>
+    <!-- this will no longer update `foo`! -->
+    <button v-on:click="add">Change it</button>
+    <span v-if="see">kerkerker</span>
+    <span>This will never change: {{ msg }}
+        <br>
+        <!-- full syntax -->
+        <button id="some_id" value="click" name="GGYY">123</button>
+        <br>
+        <div v-for="step in nums">
+            <p>{{step}}</p>
+        </div>
+
+        <input type="text" v-model="msg">
+        <span>{{msg}}</span>
+        <br>
+        <input type="text" v-model="val">
+        <button v-on:click="addList">addList</button>
+        <ul v-for="(item,index) in items">
+            <li v-on:click="removeItem(index)">{{item}}</li>
+        </ul>
+        <hr>
+        <span>{{msg}}</span>
+        <input type="checkbox" :checked="count%2===0">
+        <button @click="testAdd">add</button>
+        <br>
+        <input type="text" v-model="a">
+        +
+        <input type="text" v-model="b">
+        =
+        <input type="text" v-model="c">
+        <br>
+        <input type="text" v-model="password">
+        <br>
+        <input type="checkbox" v-model="checked">
+        <span v-if="checked">{{strong}}</span>
+        <br>
+        <ul >
+            <li v-for="num in nums"><span>{{num}}</span></li>
+        </ul>
+        <button @click="action">點擊送新手大禮包</button>
+        <br>
+        <ul >
+            <li v-for="num in numbers"><span>{{num}}</span></li>
+        </ul>
+        <button @click="even">EVEN</button>
+        <br>
+        <ul >
+            <li v-for="num in posts"><span>{{num}}</span></li>
+        </ul>
+        <button @click="fetchData">fetchData</button>
+        <br>
+        {{val}}<br>
+         <button @mouseup="move">fetchData</button>
+        <br>
+        <input type="file" @change="fileUpload">
+        <img v-if="image" :src="image">
+        <br>
+        <my-first-component></my-first-component>
+
+</div>
+</body>
+<script src="main.js"></script>
+</html>
